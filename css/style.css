@@ -236,6 +236,10 @@ header .intro-text {
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
+.responsive {
+	width: 100%;
+	height:auto;
+}
 /* About Section */
 #about {
 	padding: 100px 0;
